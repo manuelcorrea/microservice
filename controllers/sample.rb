@@ -1,3 +1,3 @@
 get '/sample' do
-  'Hello world'
+  'foo bar'
 end
