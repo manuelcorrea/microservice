@@ -1,3 +1,3 @@
 get '/sample' do
-  'foo bar'
+  'foo bar baz'
 end
