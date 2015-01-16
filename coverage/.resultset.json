@@ -1,0 +1,38 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/mcorrea/github/personal/microservice/app.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        2
+      ],
+      "/Users/mcorrea/github/personal/microservice/config/default.rb": [
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/Users/mcorrea/github/personal/microservice/config/test.rb": [
+
+      ],
+      "/Users/mcorrea/github/personal/microservice/controllers/sample.rb": [
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1421423041
+  }
+}
